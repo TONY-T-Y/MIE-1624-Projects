@@ -2,8 +2,12 @@
 
 **Related knowedge and skills:**
 
+- EDA
+- Data visualization
+- statistics (t-test ANOVA distribution)
 
 **Process:**
+
 
 
 **Results:**
