@@ -52,4 +52,4 @@ The goal of this project is to use NLP and other machine learning algorithms lea
 1. Implement functionality to parse natural language biomedical literature data according to given constraints and requirements. 
 2. Train and test machine learning algorithms (especially unsupervised machine learning algorithms such as clustering, dimensionality reduction, recommender systems, association rules, etc.) in order to gain insights or answer the overarching question you have chosen to pursue for this project. 
 3. Understand how to apply machine learning algorithms to the task of learning from a large corpus of biomedical research text. 
-4. Improve on skills and competencies required to collate and present domain specific, evidence-based insights. Particularly, in this case to gain insights and guide the fight against the COVID-19 pandemic.
+4. Improve on skills and competencies required to collate and present domain specific, evidence-based insights. Particularly, in this case to gain insights and guide the fight against the COVID-19 pandemic.111
